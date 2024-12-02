@@ -45,7 +45,7 @@ Ensure you have Python installed with the following libraries:
 
 1. Clone this repository:
    ```bash
-   git clone <repository_link>
+   git clone https://github.com/bielng/Maven_Music_Customer_Churn_Analysis_Project.git
    cd ds_mavens_music
    ```
 2. Place the required data files into the `data/` folder.
