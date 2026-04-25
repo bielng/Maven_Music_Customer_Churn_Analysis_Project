@@ -1,45 +1,45 @@
-# 🎵 Maven Music Customer Churn Analysis 🎵
+#  Maven Music Customer Churn Analysis 
 
-Welcome to the **Maven Music Customer Churn Analysis Project**! This repository contains all the materials needed for exploring, cleaning, and analyzing customer data, listening habits, and churn rates. Let's dive in! 🚀
+Welcome to the **Maven Music Customer Churn Analysis Project**! This repository contains all the materials needed for exploring, cleaning, and analyzing customer data, listening habits, and churn rates. Let's dive in!
 
 ---
 
-## 🌟 **Project Overview**
+##  **Project Overview**
 
 Maven Music provided datasets about their customers, listening history, and sessions. This project aims to:
 
-- 📊 Understand customer behavior and listening patterns.
-- ❓ Investigate why customers churn.
-- 🤖 Prepare a dataset for predictive modeling.
+-  Understand customer behavior and listening patterns.
+-  Investigate why customers churn.
+-  Prepare a dataset for predictive modeling.
 
 ---
 
-## 🗂 **Folder Structure**
+##  **Folder Structure**
 
 Here's how the repository is organized:
 
 ```plaintext
-📦 Maven Music Customer Churn Analysis
-├── 📂 case_study      # Case study materials and documentation
-├── 📂 data            # Raw data files (CSV and Excel)
-├── 📂 Images          # Visualizations and screenshots
+ Maven Music Customer Churn Analysis
+├──  case_study      # Case study materials and documentation
+├──  data            # Raw data files (CSV and Excel)
+├──  Images          # Visualizations and screenshots
 └──
 └──readme
-└── 📄 customer_churn_project.ipynb  # Jupyter Notebook with code and analysis
+└──  customer_churn_project.ipynb  # Jupyter Notebook with code and analysis
 ```
 
 ---
 
-## 🚀 **Getting Started**
+##  **Getting Started**
 
 ### **1. Prerequisites**
 
 Ensure you have Python installed with the following libraries:
 
-- 🐼 `pandas`
-- 🧮 `numpy`
-- 📊 `matplotlib`
-- 🖼️ `seaborn`
+-  `pandas`
+-  `numpy`
+-  `matplotlib`
+-  `seaborn`
 
 ### **2. How to Run the Code**
 
@@ -54,21 +54,21 @@ Ensure you have Python installed with the following libraries:
 
 ---
 
-## 🔍 **Key Insights**
+##  **Key Insights**
 
-### 🎯 **Cancellation Insights**
+###  **Cancellation Insights**
 
 - Customers with discounts have a **higher cancellation rate** (85.7%) compared to those without discounts.
 - Customers with **fewer listening sessions** are more likely to cancel.
 
-### 🎵 **Listening Behavior**
+###  **Listening Behavior**
 
 - **Pop music lovers** show higher churn rates.
 - Podcasts listening has **no significant correlation** with cancellations.
 
 ---
 
-## 📊 **Data Cleaning and Feature Engineering**
+##  **Data Cleaning and Feature Engineering**
 
 ### 🧹 **Data Cleaning**
 
@@ -78,15 +78,15 @@ Ensure you have Python installed with the following libraries:
 
 ### 🛠 **Feature Engineering**
 
-- 🧮 **Number of Sessions**: Unique sessions per customer.
-- 🎵 **Percent Pop**: Percentage of Pop music listened.
-- 🎙️ **Percent Podcasts**: Percentage of Comedy and True Crime podcasts.
+-  **Number of Sessions**: Unique sessions per customer.
+-  **Percent Pop**: Percentage of Pop music listened.
+-  **Percent Podcasts**: Percentage of Comedy and True Crime podcasts.
 
 ---
 
-## 📈 **Visualizations**
+##  **Visualizations**
 
-Check the 📂 `Images` folder for insightful visualizations like:
+Check the  `Images` folder for insightful visualizations like:
 
 - Bar charts comparing cancellation rates for customers with/without discounts.
 - Histograms showing the distribution of listening sessions.
@@ -94,7 +94,7 @@ Check the 📂 `Images` folder for insightful visualizations like:
 
 ---
 
-## 🎉 **Results**
+##  **Results**
 
 - Discounts are strongly correlated with cancellations.
 - Engaged customers (more sessions) are less likely to churn.
@@ -102,12 +102,12 @@ Check the 📂 `Images` folder for insightful visualizations like:
 
 ---
 
-## 👨‍💻 **Contributors**
+## **Contributors**
 
-✨ **Taban Ngunar** ✨
+ **Taban Ngunar** 
 
 ---
 
-## 📜 **License**
+##  **License**
 
 This project is licensed under the MIT License.
