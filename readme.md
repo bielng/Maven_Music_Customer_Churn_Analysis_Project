@@ -70,13 +70,13 @@ Ensure you have Python installed with the following libraries:
 
 ##  **Data Cleaning and Feature Engineering**
 
-### 🧹 **Data Cleaning**
+###  **Data Cleaning**
 
 - Fixed typos in `Subscription Rate` (e.g., corrected $99.99 to $9.99).
 - Standardized genres (e.g., combined `Pop` and `Pop Music`).
 - Filled missing values for `Subscription Plan` with `Basic (Ads)`.
 
-### 🛠 **Feature Engineering**
+###  **Feature Engineering**
 
 -  **Number of Sessions**: Unique sessions per customer.
 -  **Percent Pop**: Percentage of Pop music listened.
